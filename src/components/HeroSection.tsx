@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import heroSkyline from "@/assets/hero-skyline.jpg";
+import dhartiLogo from "@/assets/dharti-logo.png";
 
 const HeroSection = () => {
   return (
@@ -16,6 +17,15 @@ const HeroSection = () => {
       
       {/* Hero Content */}
       <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
+        {/* Company Logo */}
+        <div className="mb-8 animate-fade-in-up">
+          <img 
+            src={dhartiLogo} 
+            alt="Dharti Real Estate" 
+            className="h-20 md:h-24 mx-auto mb-4"
+          />
+        </div>
+        
         <h1 className="text-5xl md:text-7xl font-bold mb-6 animate-fade-in-up">
           <span className="text-foreground">Invest in the</span>
           <br />

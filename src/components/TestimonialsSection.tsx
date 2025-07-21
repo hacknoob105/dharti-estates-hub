@@ -61,7 +61,7 @@ const TestimonialsSection = () => {
       role: "Business Owner",
       location: "Connaught Place, Delhi",
       rating: 5,
-      comment: "Dharti Estate helped me find the perfect office space for my consulting firm. Their expertise in commercial properties is unmatched. The entire process was smooth and professional. Highly recommended for serious investors!",
+      comment: "Perfect office space for my consulting firm. Professional service and smooth process.",
       avatar: "RS"
     },
     {
@@ -69,7 +69,7 @@ const TestimonialsSection = () => {
       role: "Real Estate Investor",
       location: "Gurgaon Sector 47",
       rating: 5,
-      comment: "I've invested in 3 properties through Dharti Estate over the past 2 years. Each investment has given excellent returns. Their market knowledge and transparency in dealings is exceptional. Trust them completely!",
+      comment: "Invested in 3 properties with excellent returns. Great market knowledge and transparency.",
       avatar: "PG"
     },
     {
@@ -77,7 +77,7 @@ const TestimonialsSection = () => {
       role: "Entrepreneur",
       location: "Khan Market, Delhi",
       rating: 5,
-      comment: "Outstanding service! They found me a premium retail space in Khan Market within my budget. The team's dedication and follow-up throughout the process was remarkable. My business is thriving in this location!",
+      comment: "Found premium retail space within budget. Outstanding service and follow-up.",
       avatar: "AV"
     },
     {
@@ -85,7 +85,7 @@ const TestimonialsSection = () => {
       role: "Doctor",
       location: "Golf Course Road",
       rating: 5,
-      comment: "Purchased my dream home through Dharti Estate. From property selection to legal documentation, everything was handled professionally. The luxury apartment exceeded my expectations. Excellent team to work with!",
+      comment: "Dream home purchase made easy. Professional handling from selection to documentation.",
       avatar: "MJ"
     },
     {
@@ -93,7 +93,7 @@ const TestimonialsSection = () => {
       role: "Manufacturing Business",
       location: "Manesar Industrial Area",
       rating: 5,
-      comment: "Needed a large warehouse facility for my manufacturing unit. Dharti Estate not only found the perfect location but also negotiated the best deal. Their industrial property expertise saved me both time and money.",
+      comment: "Perfect warehouse facility with best deal negotiation. Saved time and money.",
       avatar: "VS"
     },
     {
@@ -101,7 +101,7 @@ const TestimonialsSection = () => {
       role: "IT Professional",
       location: "DLF Phase 3",
       rating: 5,
-      comment: "As a first-time property buyer, I was nervous about the process. The Dharti Estate team guided me through every step with patience and expertise. Got a beautiful 3BHK apartment at the best price. Forever grateful!",
+      comment: "First-time buyer guided through every step. Beautiful 3BHK at best price.",
       avatar: "NA"
     }
   ];

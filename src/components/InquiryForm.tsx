@@ -60,7 +60,7 @@ const InquiryForm = () => {
       <div className="max-w-4xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-4xl font-bold text-foreground mb-4">
-            Commercial Property <span className="text-dharti-green">Inquiry</span>
+            Property <span className="text-dharti-green">Inquiry</span>
           </h2>
           <p className="text-xl text-muted-foreground">
             Ready to invest? Get personalized property recommendations from our experts.

@@ -1,6 +1,7 @@
 import HeroSection from "@/components/HeroSection";
 import PropertySearch from "@/components/PropertySearch";
 import PropertyListings from "@/components/PropertyListings";
+import TestimonialsSection from "@/components/TestimonialsSection";
 import InquiryForm from "@/components/InquiryForm";
 import ContactSection from "@/components/ContactSection";
 
@@ -10,6 +11,7 @@ const Index = () => {
       <HeroSection />
       <PropertySearch />
       <PropertyListings />
+      <TestimonialsSection />
       <InquiryForm />
       <ContactSection />
     </div>
